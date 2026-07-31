@@ -9,6 +9,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-7c5cff)](https://github.com/TomSchimansky/CustomTkinter)
 
+### [⬇️ Скачать Freehop.exe](https://github.com/drodilkin/free-hop/releases/latest)
+
 <img src="screenshot.png" width="420" alt="Freehop screenshot">
 
 </div>
